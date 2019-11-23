@@ -1,0 +1,18 @@
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.exe.config
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.exe
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.pdb
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.exe
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.pdb
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.csprojResolveAssemblyReference.cache
+C:\Users\453\Desktop\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.exe.config
+C:\Users\453\Desktop\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.exe
+C:\Users\453\Desktop\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.pdb
+C:\Users\453\Desktop\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.exe
+C:\Users\453\Desktop\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.pdb
+C:\Users\453\Desktop\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.csprojResolveAssemblyReference.cache
+C:\Users\453\Desktop\Първи курс 2016-2017\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.exe.config
+C:\Users\453\Desktop\Първи курс 2016-2017\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.exe
+C:\Users\453\Desktop\Първи курс 2016-2017\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.pdb
+C:\Users\453\Desktop\Първи курс 2016-2017\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.csprojResolveAssemblyReference.cache
+C:\Users\453\Desktop\Първи курс 2016-2017\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.exe
+C:\Users\453\Desktop\Първи курс 2016-2017\XrisiCourseWorkOOP\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.pdb
